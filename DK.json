@@ -166,6 +166,8 @@
 			},
 			{
 				"name": "Elemental Practice",
+				"shortName": "Elemental",
+				"source": "DK",
 				"spellcastingAbility": "cha",
 				"casterProgression": "1/3",
 				"cantripProgression": [
@@ -311,10 +313,10 @@
 						"source": "DK"
 					}],
 					"colLabels": [
-						"{@filter 1st|spells|level=1|class=Sorcerer}",
-						"{@filter 2nd|spells|level=2|class=Sorcerer}",
-						"{@filter 3rd|spells|level=3|class=Sorcerer}",
-						"{@filter 4th|spells|level=4|class=Sorcerer}"
+						"{@filter 1st|spells|level=1|subclass=Elemental Practice}",
+						"{@filter 2nd|spells|level=2|subclass=Elemental Practice}",
+						"{@filter 3rd|spells|level=3|subclass=Elemental Practice}",
+						"{@filter 4th|spells|level=4|subclass=Elemental Practice}"
 					],
 					"rows": [
 						[
@@ -445,9 +447,7 @@
 					"Elemental Fury|Dragon Knight|DK|Elemental|DK|10",
 					"Destructive Reach|Dragon Knight|DK|Elemental|DK|15",
 					"Annihilating Breath|Dragon Knight|DK|Elemental|DK|18"
-				],
-				"source": "DK",
-				"shortName": "Elemental"
+				]
 			},
 			{
 				"name": "Platinum Practice",
