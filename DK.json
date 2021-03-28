@@ -119,7 +119,7 @@
 			"Ability Score Improvement|Dragon Knight|DK|4",
 			"Coordinated Attack|Dragon Knight|DK|5",
 			"Draconic Growth|Dragon Knight|DK|5",
-			"Rending Strikes|Dragon Knight|DK|5",
+			"Rending Strikes (2d6)|Dragon Knight|DK|5",
 			"Bite Damage (2d6)|Dragon Knight|DK|6",
 			"Breath Weapon|Dragon Knight|DK|6",
 			{
@@ -133,6 +133,7 @@
 				"classFeature": "Dragon Knight Practice feature|Dragon Knight|DK|10",
 				"gainSubclassFeature": true
 			},
+			"Rending Strikes (3d6)|Dragon Knight|DK|11",
 			"Draconic Nature|Dragon Knight|DK|11",
 			"Ability Score Improvement|Dragon Knight|DK|12",
 			"Titanic Roar|Dragon Knight|DK|13",
@@ -693,7 +694,8 @@
 		},
 		"speed": {
 			"walk": 20,
-			"fly": 30
+			"fly": 30,
+			"swim": 20
 		},
 		"str": 14,
 		"dex": 8,
@@ -1094,7 +1096,7 @@
 			]
 		},
 		{
-			"name": "Rending Strikes",
+			"name": "Rending Strikes (2d6)",
 			"source": "DK",
 			"className": "Dragon Knight",
 			"classSource": "DK",
@@ -1266,6 +1268,22 @@
 			"level": 10,
 			"entries": [
 				"At 10th level, you gain a feature granted by your Dragon Knight Practice."
+			]
+		},
+		{
+			"name": "Rending Strikes (3d6)",
+			"source": "DK",
+			"className": "Dragon Knight",
+			"classSource": "DK",
+			"level": 11,
+			"entries": [
+				"Also at 5th level, your dragon companion continues to grow, and gains the following benefits:",
+				{
+					"type": "list",
+					"items": [
+						"At 11th level, the damage of your dragon's bite, claw, and tail attacks increases to 3d6.",
+					]
+				}
 			]
 		},
 		{
