@@ -292,7 +292,7 @@
 				"(a) a {@item light crossbow|phb} and 20 bolts or (b) five {@item javelin|phb}s",
 				"(a) a {@item dungeoneer's pack|phb} or (b) an {@item explorer's pack|phb}"
 			],
-			"goldAlternative": "5d4 × 10",
+			"goldAlternative": "{@dice 5d4×10|4d4 × 10|Starting Gold}",
 			"defaultData": [
 				{
 					"a": [{
