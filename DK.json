@@ -290,8 +290,7 @@
 				"(a) a {@filter martial weapon|items|type=martial weapon|source=phb} and a {@item shield|phb} or (b) two {@filter martial weapons|items|type=martial weapon|source=phb}",
 				"(a) {@item chain mail|phb}, (b) {@item scale mail|phb} or (c) {@item leather armor|phb}",
 				"(a) a {@item light crossbow|phb} and 20 bolts or (b) five {@item javelin|phb}s",
-				"(a) a {@item dungeoneer's pack|phb} or (b) an {@item explorer's pack|phb}",
-				"a {@item shortsword|phb} and a {@item herbalism kit|phb}"
+				"(a) a {@item dungeoneer's pack|phb} or (b) an {@item explorer's pack|phb}"
 			],
 			"goldAlternative": "5d4 × 10",
 			"defaultData": [{
