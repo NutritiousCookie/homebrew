@@ -1,5 +1,4 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/schema.json",
 	"_meta": {
 		"sources": [{
 			"json": "DK",
@@ -15,7 +14,7 @@
 				"NutritiousCookie"
 			],
 			"url": "https://www.gmbinder.com/share/-MDGLhlVkBJmWQ9ZNgPN",
-			"targetSchema": "1.5.0"
+			"targetSchema": "1.0.0"
 		}],
 		"dateAdded": 1616886969,
 		"dateLastModified": 1616886969
