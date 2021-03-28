@@ -169,10 +169,20 @@
 				"name": "Elemental Practice",
 				"shortName": "Elemental",
 				"source": "DK",
-				"subclassSpells": [{
+				"subclassSpells": [
+					{
 					"class": "Sorcerer",
 					"source": "PHB"
-				}],
+					},
+					{
+					"class": "Sorcerer",
+					"source": "XGE"
+					},
+					{
+					"class": "Sorcerer",
+					"source": "TCE"
+					}
+				],
 				"spellcastingAbility": "cha",
 				"casterProgression": "1/3",
 				"cantripProgression": [
