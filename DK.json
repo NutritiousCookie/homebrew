@@ -214,233 +214,240 @@
 					11,
 					12
 				],
-				"subclassTableGroups": [{
-					"subclasses": [{
-						"name": "Elemental Practice",
-						"source": "DK"
-					}],
-					"colLabels": [
-						"{@filter Cantrips Known|spells|level=0|subclass=Elemental Practice}",
-						"{@filter Spells Known|spells|subclass=Elemental Practice}"
-					],
-					"rows": [
-						[
-							0,
-							0
+				"subclassTableGroups": [
+					{
+						"subclasses": [
+							{
+								"name": "Elemental Practice",
+								"source": "DK"
+							}
 						],
-						[
-							0,
-							0
+						"colLabels": [
+							"{@filter Cantrips Known|spells|level=0|class=Sorcerer}",
+							"{@filter Spells Known|spells|class=Sorcerer}"
 						],
-						[
-							2,
-							2
-						],
-						[
-							2,
-							3
-						],
-						[
-							2,
-							3
-						],
-						[
-							2,
-							3
-						],
-						[
-							2,
-							4
-						],
-						[
-							2,
-							5
-						],
-						[
-							2,
-							5
-						],
-						[
-							3,
-							6
-						],
-						[
-							3,
-							6
-						],
-						[
-							3,
-							7
-						],
-						[
-							3,
-							8
-						],
-						[
-							3,
-							9
-						],
-						[
-							3,
-							9
-						],
-						[
-							3,
-							10
-						],
-						[
-							3,
-							10
-						],
-						[
-							3,
-							10
-						],
-						[
-							3,
-							11
-						],
-						[
-							3,
-							12
+						"rows": [
+							[
+								0,
+								0
+							],
+							[
+								0,
+								0
+							],
+							[
+								2,
+								2
+							],
+							[
+								2,
+								3
+							],
+							[
+								2,
+								3
+							],
+							[
+								2,
+								3
+							],
+							[
+								2,
+								4
+							],
+							[
+								2,
+								5
+							],
+							[
+								2,
+								5
+							],
+							[
+								3,
+								6
+							],
+							[
+								3,
+								6
+							],
+							[
+								3,
+								7
+							],
+							[
+								3,
+								8
+							],
+							[
+								3,
+								9
+							],
+							[
+								3,
+								9
+							],
+							[
+								3,
+								10
+							],
+							[
+								3,
+								10
+							],
+							[
+								3,
+								10
+							],
+							[
+								3,
+								11
+							],
+							[
+								3,
+								12
+							]
 						]
-					]
-				},
-				{
-					"title": "Spell Slots per Spell Level",
-					"subclasses": [{
-						"name": "Elemental Practice",
-						"source": "DK"
-					}],
-					"colLabels": [
-						"{@filter 1st|spells|level=1|subclass=Elemental Practice}",
-						"{@filter 2nd|spells|level=2|subclass=Elemental Practice}",
-						"{@filter 3rd|spells|level=3|subclass=Elemental Practice}",
-						"{@filter 4th|spells|level=4|subclass=Elemental Practice}"
-					],
-					"rows": [
-						[
-							0,
-							0,
-							0,
-							0
+					},
+					{
+						"title": "Spell Slots per Spell Level",
+						"subclasses": [
+							{
+								"name": "Elemental Practice",
+								"source": "DK"
+							}
 						],
-						[
-							0,
-							0,
-							0,
-							0
+						"colLabels": [
+							"{@filter 1st|spells|level=1|class=Sorcerer}",
+							"{@filter 2nd|spells|level=2|class=Sorcerer}",
+							"{@filter 2nd|spells|level=2|class=Sorcerer}",
+							"{@filter 3rd|spells|level=3|class=Sorcerer}",
+							"{@filter 4th|spells|level=4|class=Sorcerer}"
 						],
-						[
-							2,
-							0,
-							0,
-							0
-						],
-						[
-							3,
-							0,
-							0,
-							0
-						],
-						[
-							3,
-							0,
-							0,
-							0
-						],
-						[
-							3,
-							0,
-							0,
-							0
-						],
-						[
-							4,
-							2,
-							0,
-							0
-						],
-						[
-							4,
-							2,
-							0,
-							0
-						],
-						[
-							4,
-							2,
-							0,
-							0
-						],
-						[
-							4,
-							3,
-							0,
-							0
-						],
-						[
-							4,
-							3,
-							0,
-							0
-						],
-						[
-							4,
-							3,
-							0,
-							0
-						],
-						[
-							4,
-							3,
-							2,
-							0
-						],
-						[
-							4,
-							3,
-							2,
-							0
-						],
-						[
-							4,
-							3,
-							2,
-							0
-						],
-						[
-							4,
-							3,
-							3,
-							0
-						],
-						[
-							4,
-							3,
-							3,
-							0
-						],
-						[
-							4,
-							3,
-							3,
-							0
-						],
-						[
-							4,
-							3,
-							3,
-							1
-						],
-						[
-							4,
-							3,
-							3,
-							1
+						"rows": [
+							[
+								0,
+								0,
+								0,
+								0
+							],
+							[
+								0,
+								0,
+								0,
+								0
+							],
+							[
+								2,
+								0,
+								0,
+								0
+							],
+							[
+								3,
+								0,
+								0,
+								0
+							],
+							[
+								3,
+								0,
+								0,
+								0
+							],
+							[
+								3,
+								0,
+								0,
+								0
+							],
+							[
+								4,
+								2,
+								0,
+								0
+							],
+							[
+								4,
+								2,
+								0,
+								0
+							],
+							[
+								4,
+								2,
+								0,
+								0
+							],
+							[
+								4,
+								3,
+								0,
+								0
+							],
+							[
+								4,
+								3,
+								0,
+								0
+							],
+							[
+								4,
+								3,
+								0,
+								0
+							],
+							[
+								4,
+								3,
+								2,
+								0
+							],
+							[
+								4,
+								3,
+								2,
+								0
+							],
+							[
+								4,
+								3,
+								2,
+								0
+							],
+							[
+								4,
+								3,
+								3,
+								0
+							],
+							[
+								4,
+								3,
+								3,
+								0
+							],
+							[
+								4,
+								3,
+								3,
+								0
+							],
+							[
+								4,
+								3,
+								3,
+								1
+							],
+							[
+								4,
+								3,
+								3,
+								1
+							]
 						]
-					]
-				}],
+					}
+				],
 				"subclassFeatures": [
 					"Elemental Practice|Dragon Knight|DK|Elemental|DK|3",
 					"Dragon Rush|Dragon Knight|DK|Elemental|DK|7",
